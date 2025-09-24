@@ -32,3 +32,17 @@ ________
 
 ##Enlaces
 [Visita la web de mi instituto](https://portal.edu.gva.es/iesblascoibanyezcullera/)
+<https://portal.edu.gva.es/iesblascoibanyezcullera/>
+
+##Imagenes
+![El logo](https://portal.edu.gva.es/wp-content/uploads/sites/912/2023/04/cropped-logoArriba-1.jpg)
+
+##Codigo
+   Esto es codigo
+~~~
+Estoy haciendo un buen trabajo eh Xavi
+~~~
+O tambien lo podemos poner asi el `Còdigo`
+
+##Anular Markdown
+De esta forma \*anulas Markdown*
